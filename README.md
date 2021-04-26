@@ -1,4 +1,4 @@
-# Welcome to SaveMyFroggyDays
+# Welcome to SaveMyFroggyDays 🐸
 
 This project let you know where you can go or what you can do even if it's raining.
 
